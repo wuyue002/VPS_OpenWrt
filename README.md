@@ -13,8 +13,8 @@ Support Platform :
 - Racknerd
 - Hostdare
 - Ali Cloud (Domestic)
-- 2b added
+- ...
 
 `NOT` support Platform :
 - Oracle Cloud
-- 2b added
+- ...
