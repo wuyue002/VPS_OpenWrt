@@ -3,8 +3,10 @@
 This repo helps to deploy OpenWrt onto your VPS.<br>
 
 **Prerequisite**
- - `Ubuntu` or `Debian` (CentOS/ArchBase Not tested)
- - `wget` installed on your linux system
+ - **`Ubuntu`** or **`Debian`** (CentOS/ArchBase Not tested)
+ - **`wget`** installed<br>
+   probably you don't need this, but if you do, you could run command below to install `wget`:<br>
+   `apt update && apt install -y wget` 
 
 **Steps**
 
