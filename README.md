@@ -1,11 +1,14 @@
 # VPS_OpenWrt
 
-This repo helps you to deploy OpenWrt onto VPS 
+This repo helps to deploy OpenWrt onto your VPS.<br>
+Youtube video tutorial(in Mandarin): https://youtu.be/...
 
-RUN: 
-`bash -c "$(wget -O- https://git.io/JGvno)"`
+**Steps**
 
-Support Platform :
+1.  Upload OpenWrt firmware
+2.  Run: `bash -c "$(wget -O- https://git.io/JGvno)"`
+
+**Support Platform :**
 - Google Cloud
 - Azure
 - Vultr
@@ -15,6 +18,6 @@ Support Platform :
 - Ali Cloud (Domestic)
 - ...
 
-`NOT` support Platform :
+**`NOT` Support Platform :**
 - Oracle Cloud
 - ...
