@@ -10,7 +10,7 @@ This repo helps to deploy OpenWrt onto your VPS.<br>
 
 **Steps**
 
-1.  Upload OpenWrt firmware (WinSCP or prefer)
+1.  Upload OpenWrt firmware(WinSCP or prefer), rename it to "op.img.gz" 
 2.  Run: `bash -c "$(wget -O- https://git.io/JGvno)"`
  
 **Support Platform :**
