@@ -1,6 +1,10 @@
 # VPS_OpenWrt
+![GitHub Stars](https://img.shields.io/github/stars/esirplayground/VPS_OpenWrt.svg?style=flat&logo=appveyor&label=Stars&logo=github)
+![GitHub Forks](https://img.shields.io/github/forks/esirplayground/VPS_OpenWrt.svg?style=flat&logo=appveyor&label=Forks&logo=github)
+![GitHub last commit](https://img.shields.io/github/last-commit/esirplayground/VPS_OpenWrt?label=Latest%20Commit&logo=github)
 
 This repo helps to deploy OpenWrt onto your VPS.<br>
+Youtube video tutorial(in Mandarin): https://youtu.be/iXhd-h4aVW8
 
 **Prerequisite**
  - **`Ubuntu`** or **`Debian`** (CentOS/ArchBase Not tested)
